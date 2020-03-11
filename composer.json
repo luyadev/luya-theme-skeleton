@@ -3,7 +3,7 @@
     "type": "luya-theme",
     "autoload": {
         "psr-4": {
-            "VENDOR\\PACKAGE\\": ""
+            "VENDOR\\PACKAGE\\": "src/"
         }
     },
     "require": {
